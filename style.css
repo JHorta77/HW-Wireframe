@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ebebeb;
+    text-align: center;
+    width: 95.1%;
+    margin: 10px;
+    height: 80px;
+    padding: 20px;
+    line-height: 5;
+}
+nav {
+    background-color: #ebebeb;
+    text-align: center;
+    height: 80px;
+    width: 95.1%; 
+    margin: 10px;
+    padding: 20px;
+    line-height: 5;
+}
+section {
+    background-color: #ebebeb;
+    width: 60%;
+    height: 300px;
+    margin: 0 5px 10px 10px;
+    display: inline-block;
+    text-align: center;
+}
+aside {
+    background-color: #ebebeb;
+    height: 300px;
+    width: 38.1%;
+    display: inline-block;
+    text-align: center;
+    float: right;
+    position: relative;
+    right: -1px;
+    line-height: 6;
+}
+footer {
+    background-color: #ebebeb;
+    margin: 20px;
+    height: 112px;
+    width: 98%;
+    text-align: center;
+    padding: 6px;
+    position: relative;
+    left: -12px;
+    line-height: 5;
+}
+article {
+    color: #ebebeb;
+    background-color: #777;
+    height: 220px;
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+    line-height: 4;
+    
+}
+h1 {
+    color: #777;
+    background-color: #ebebeb;
+    padding: 13px;
+    width: 83%;
+    margin: 5px auto;
+    position: relative;
+    top: -12px;
+    height: 27px;
+    line-height: 1.1;
+}
+p {
+    color: #777;
+    background-color: #ebebeb;
+    padding: 3px;
+    width: 87%;
+    margin: 5px auto;
+    position: relative;
+    top: -2px;
+    height: 46px;
+    line-height: 2;
+}
